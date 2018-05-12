@@ -1,0 +1,32 @@
+_repo: '---------------------------------------------------_32211'
+_version: 0.1.0
+alternative_title: The Light - The Magic Loom - The Good Fairy
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Papadopoulou, Arsinoe
+    aliases:
+    - Papadopoulou, Arsinoi
+    - Παραδοπούλου, Αρσινόη
+    birthdate: 1853
+    deathdate: 1943
+    gutenberg_agent_id: '35727'
+    url: http://www.gutenberg.org/2009/agents/35727
+description: ''
+gutenberg_issued: '2010-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32211'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greek language, Modern -- Readers'
+- !lcsh 'Children''s stories, Greek (Modern)'
+- !lcc 'PZ'
+- !lcc 'PA'
+title: Η Φωτεινή - Ο μαγευμένος εργαλειός - Η καλή Νεράιδα
+url: http://www.gutenberg.org/ebooks/32211
